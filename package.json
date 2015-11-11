@@ -1,0 +1,21 @@
+{
+  "name": "brochat",
+  "version": "0.0.0",
+  "description": "Chat for bros",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brochat/brochat"
+  },
+  "author": "bros",
+  "license": "MPL v2.0",
+  "bugs": {
+    "url": "https://github.com/brochat/brochat/issues"
+  },
+  "dependencies": {
+    "express": "~4.13.3"
+  }
+}
